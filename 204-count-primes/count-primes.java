@@ -1,30 +1,21 @@
 class Solution {
     public int countPrimes(int n) {
+        if (n <= 2) return 0; // No primes less than 2
 
+        boolean[] isNotPrime = new boolean[n];
         int count = 0;
-        int[] prime = new int[n]; // No need for n+1 since we're counting primes strictly less than n
 
-        // Initialize the prime array
         for (int i = 2; i < n; i++) {
-            prime[i] = 1; // Assume all numbers are prime initially
-        }
-
-        // Sieve of Eratosthenes
-        for (int i = 2; i * i < n; i++) {
-            if (prime[i] == 1) { // If i is prime
-                for (int j = i * i; j < n; j += i) { // Mark multiples of i as non-prime
-                    prime[j] = 0;
-                }
-            }
-        }
-
-        // Count the primes
-        for (int i = 2; i < n; i++) {
-            if (prime[i] == 1) {
+            if (!isNotPrime[i]) { // If i is a prime number
                 count++;
+                // Mark multiples of i starting from i * i
+                for (long j = (long) i * i; j < n; j += i) {
+                    isNotPrime[(int) j] = true;
+                }
             }
         }
 
         return count;
     }
 }
+
