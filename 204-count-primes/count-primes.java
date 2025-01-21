@@ -2,21 +2,22 @@ class Solution {
     public int countPrimes(int n) {
         if (n <= 2) return 0; // No primes less than 2
 
-        boolean[] isNotPrime = new boolean[n];
-        int count = 0;
+        // Only consider odd numbers
+        boolean[] isNotPrime = new boolean[n / 2];
+        int count = 1; // Count 2 as prime
 
-        // Handle the first prime (2) separately
-        for (int i = 2; i * i < n; i++) {
-            if (!isNotPrime[i]) { // If i is prime
-                // Mark multiples of i starting from i * i
-                for (int j = i * i; j < n; j += i) {
-                    isNotPrime[j] = true;
+        // Handle the odd numbers
+        for (int i = 3; i * i < n; i += 2) {
+            if (!isNotPrime[i / 2]) { // If i is prime
+                // Mark multiples of i starting from i * i, skipping even numbers
+                for (int j = i * i; j < n; j += i * 2) {
+                    isNotPrime[j / 2] = true;
                 }
             }
         }
 
         // Count primes
-        for (int i = 2; i < n; i++) {
+        for (int i = 1; i < n / 2; i++) {
             if (!isNotPrime[i]) count++;
         }
 
