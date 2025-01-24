@@ -1,34 +1,21 @@
-class Solution
-{
-    public int maxProduct(int[] nums)
-    {
-       int n = nums.length; 
-       int prefix = 1,suffix=1,pre_max = nums[0], suff_max = nums[n-1];
-       int i; 
-       for(i=0;i<=n-1;i++)
-       {
-        prefix = prefix * nums[i]; 
-        if(pre_max < prefix)
-        {
-            pre_max = prefix;
+class Solution {
+    public int maxProduct(int[] nums) {
+        
+        int max = nums[0], min = nums[0], ans = nums[0];
+        
+        for (int i = 1; i < nums.length; i++) {
+            
+            int temp = max;
+            
+            max = Math.max(Math.max(max * nums[i], min * nums[i]), nums[i]);
+            min = Math.min(Math.min(temp * nums[i], min * nums[i]), nums[i]);
+            
+            if (max > ans) {
+                ans = max;
+            }
         }
-        if(prefix == 0 )
-        {
-            prefix = 1;
-        }
-       }
-       for(i=n-1;i>=0;i--)
-       {
-        suffix = suffix * nums[i]; 
-        if(suff_max < suffix)
-        {
-            suff_max = suffix;
-        }
-        if(suffix == 0 )
-        {
-           suffix = 1;
-        }
-       }
-       return (pre_max>suff_max)?pre_max:suff_max;
+        
+        return ans;
+
     }
-} 
+}
