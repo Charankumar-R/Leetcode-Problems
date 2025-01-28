@@ -1,17 +1,17 @@
 class Solution {
-    static int count=0;
+    int count=0;
     public int totalNQueens(int n) {
         count=0;
         int[][] arr=new int[n][n];
         queen(n,arr,0);
         return count; 
     }
-    public static void count(int n,int arr[][]){
+    public void count(int n,int arr[][]){
         //Count incrementation
         count++;
     }
     //to check the queen is safe
-    public static boolean isSafe(int n,int arr[][],int row,int col){
+    public  boolean isSafe(int n,int arr[][],int row,int col){
         int i,j;
         //check if any queen is above
         for(i=row;i>=0;i--){
@@ -33,7 +33,7 @@ class Solution {
         }
         return true;
     }
-    public static void queen(int n,int arr[][],int row){
+    public void queen(int n,int arr[][],int row){
         int col;
         if(row==n){
             count(n,arr);//count method calling
