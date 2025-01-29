@@ -1,7 +1,7 @@
 class Solution {
     public int trap(int[] arr) {
         int n=arr.length;
-        if(n==0){
+        if(n==2){
             return 0;
         }
         //int arr[]=height[n];
