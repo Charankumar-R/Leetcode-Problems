@@ -1,6 +1,9 @@
 class Solution {
     public int trap(int[] arr) {
         int n=arr.length;
+        if(n==0){
+            return 0;
+        }
         //int arr[]=height[n];
         int l[]=new int[n];
         int r[]=new int[n];
