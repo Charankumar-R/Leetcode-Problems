@@ -28,7 +28,7 @@ class Solution {
                 r[i]=arr[i];
             }
         }
-        //System.out.print(Arrays.toString(r));
+
         for(i=0;i<n;i++){
             sum=sum+((int)(Math.min(l[i],r[i]))-arr[i]);
         }
