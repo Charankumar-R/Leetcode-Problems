@@ -3,6 +3,9 @@ class Solution {
         int row=board.length;
         int col=board[0].length;
         int len=word.length();
+        if(len>row*col){
+            return false;
+        }
         int i,j;
         for(i=0;i<row;i++){
             for(j=0;j<col;j++){
