@@ -1,9 +1,5 @@
 class Solution(object):
     def minTimeToVisitAllPoints(self, points):
-        """
-        :type points: List[List[int]]
-        :rtype: int
-        """
         res=0
         x1,y1=points.pop()
         while points:
