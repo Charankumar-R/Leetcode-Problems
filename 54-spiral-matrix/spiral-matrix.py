@@ -20,4 +20,5 @@ class Solution(object):
             if matrix and matrix[0]:
                 for row in matrix[::-1]:
                     res.append(row.pop(0))
+
         return res
