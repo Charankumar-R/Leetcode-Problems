@@ -4,6 +4,7 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+        '''
         #edge case
         if not nums:
             return nums
@@ -45,4 +46,18 @@ class Solution(object):
             return [n**2 for n in ret]
         
         return merge(A,B)
+        '''
+
+        ans=collections.deque()
+        l,r=0,len(nums)-1
+
+        while l<=r:
+            left,right=abs(nums[l]),abs(nums[r])
+            if left > right:
+                ans.appendleft(left*left)
+                l+=1
+            else:
+                ans.appendleft(right*right)
+                r-=1
         
+        return list(ans)
