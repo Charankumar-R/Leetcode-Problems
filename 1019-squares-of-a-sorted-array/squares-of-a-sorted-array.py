@@ -4,6 +4,8 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
+
+        #split and merge method 
         '''
         #edge case
         if not nums:
@@ -47,7 +49,8 @@ class Solution(object):
         
         return merge(A,B)
         '''
-
+        
+        #deque data-type used 
         ans=collections.deque()
         l,r=0,len(nums)-1
 
