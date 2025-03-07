@@ -4,6 +4,8 @@ class Solution(object):
         :type arr: List[int]
         :rtype: int
         """
+        if len(arr) < 3:
+            return 0
         ret=0
         for i in range(1,len(arr)-1):
             if arr[i-1]<arr[i]>arr[i+1]:
