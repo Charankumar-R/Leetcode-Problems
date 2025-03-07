@@ -1,16 +1,16 @@
-class Solution:
-    def longestMountain(self, A):
-        n, max_len = len(A), 0
-        state, length = 0, 1
-        for i in range(n-1):
-            if state in [0, 1] and A[i+1] > A[i]:
-                state, length = 1, length + 1
-            elif state == 2 and A[i+1] > A[i]:
-                state, length = 1, 2
-            elif state in [1, 2] and A[i+1] < A[i]:
-                state, length = 2, length + 1
-                max_len = max(length, max_len)
-            else:
-                state, length = 0, 1
-                
-        return max_len
+class Solution(object):
+    def longestMountain(self, arr):
+        """
+        :type arr: List[int]
+        :rtype: int
+        """
+        ret=0
+        for i in range(1,len(arr)-1):
+            if arr[i-1]<arr[i]>arr[i+1]:
+                l=r=i
+                while l>0 and arr[l]>arr[l-1]:
+                    l-=1
+                while r<len(arr)-1 and arr[r]>arr[r+1]:
+                    r+=1
+                ret =max(ret,r-l+1)
+        return ret
