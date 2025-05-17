@@ -45,6 +45,7 @@ Problems solved by Charan
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
 <!---LeetCode Topics End-->
