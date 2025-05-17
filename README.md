@@ -6,6 +6,7 @@ Problems solved by Charan
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -45,6 +46,7 @@ Problems solved by Charan
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
