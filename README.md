@@ -53,9 +53,15 @@ Problems solved by Charan
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
