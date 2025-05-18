@@ -50,4 +50,12 @@ Problems solved by Charan
 | [0077-combinations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
