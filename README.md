@@ -77,5 +77,10 @@ Problems solved by Charan
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
