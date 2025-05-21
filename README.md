@@ -11,6 +11,7 @@ Problems solved by Charan
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
+| [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,4 +95,9 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
+## Simulation
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
