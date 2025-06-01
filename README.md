@@ -22,6 +22,7 @@ Problems solved by Charan
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -106,6 +107,7 @@ Problems solved by Charan
 ## Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -118,6 +120,7 @@ Problems solved by Charan
 ## Binary Tree
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
