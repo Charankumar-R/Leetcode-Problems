@@ -10,6 +10,8 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
+        "DFS with Stack"
+        """
         stack = [root]
         while stack:
             curr = stack.pop()
@@ -17,3 +19,8 @@ class Solution(object):
                 curr.left, curr.right = curr.right, curr.left
                 stack.extend([curr.right, curr.left])
         return root
+        """
+        "DFS Recursive"
+        if root:
+            root.left, root.right = self.invertTree(root.right), self.invertTree(root.left)
+            return root
