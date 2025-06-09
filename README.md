@@ -10,6 +10,7 @@ Problems solved by Charan
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Dynamic Programming
@@ -80,6 +81,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 ## Recursion
 |  |
 | ------- |
@@ -143,4 +145,8 @@ Problems solved by Charan
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
