@@ -122,6 +122,7 @@ Problems solved by Charan
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -145,8 +146,13 @@ Problems solved by Charan
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
