@@ -1,9 +1,3 @@
-# Definition for a binary tree node.
-# class TreeNode(object):
-#     def __init__(self, val=0, left=None, right=None):
-#         self.val = val
-#         self.left = left
-#         self.right = right
 class Solution(object):
     
     def balanceBST(self, root):
@@ -11,11 +5,10 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: Optional[TreeNode]
         """
-        def inorder_traversal(root):
+        def inorder_traversal(root): 
             nodes = []
-            stack =[]
+            stack = []
             curr = root
-
             while curr or stack:
                 while curr:
                     stack.append(curr)
@@ -25,7 +18,7 @@ class Solution(object):
                 curr = curr.right
             return nodes
 
-        def sorted_array_to_bst(nums):
+        def sorted_array_to_bst(nums): 
             if not nums:
                 return None
             mid = len(nums) // 2
@@ -33,6 +26,6 @@ class Solution(object):
             root.left = sorted_array_to_bst(nums[:mid])
             root.right = sorted_array_to_bst(nums[mid+1:])
             return root
-
-        nums = inorder_traversal(root)
+            
+        nums = inorder_traversal(root) 
         return sorted_array_to_bst(nums)
