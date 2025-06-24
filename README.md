@@ -39,6 +39,7 @@ Problems solved by Charan
 | ------- |
 | [0070-climbing-stairs](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 ## Memoization
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Problems solved by Charan
 | ------- |
 | [0020-valid-parentheses](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0065-valid-number) |
+| [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
 ## Backtracking
 |  |
@@ -94,6 +96,7 @@ Problems solved by Charan
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
@@ -101,6 +104,7 @@ Problems solved by Charan
 | [0020-valid-parentheses](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Design
