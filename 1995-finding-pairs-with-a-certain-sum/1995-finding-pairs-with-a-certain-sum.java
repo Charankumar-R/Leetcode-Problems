@@ -23,6 +23,7 @@ class FindSumPairs {
         return c;
     }
 }
+
 // m.getOrDeafult(a,b);
 // if the get value a is present in the Hashmap then it returns a or else it returns the default value 
 
