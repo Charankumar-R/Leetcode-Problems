@@ -20,6 +20,7 @@ Problems solved by Charan
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -209,6 +210,7 @@ Problems solved by Charan
 | [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
 | ------- |
@@ -222,4 +224,9 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
