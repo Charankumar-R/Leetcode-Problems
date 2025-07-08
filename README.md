@@ -14,6 +14,7 @@ Problems solved by Charan
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
+| [0330-patching-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -214,6 +215,7 @@ Problems solved by Charan
 ## Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Counting
