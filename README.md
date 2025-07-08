@@ -6,6 +6,7 @@ Problems solved by Charan
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
@@ -93,6 +94,7 @@ Problems solved by Charan
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
