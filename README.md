@@ -25,6 +25,7 @@ Problems solved by Charan
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ Problems solved by Charan
 | [0330-patching-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ Problems solved by Charan
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
