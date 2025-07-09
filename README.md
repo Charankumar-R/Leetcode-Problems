@@ -77,6 +77,7 @@ Problems solved by Charan
 | [0065-valid-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
+| [3617-find-the-original-typed-string-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
 | ------- |
