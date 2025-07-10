@@ -21,6 +21,7 @@ Problems solved by Charan
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -82,6 +83,7 @@ Problems solved by Charan
 | [0214-shortest-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
 | [3617-find-the-original-typed-string-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
@@ -106,6 +108,7 @@ Problems solved by Charan
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
@@ -220,6 +223,7 @@ Problems solved by Charan
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 ## Binary Search Tree
 |  |
