@@ -6,7 +6,7 @@ class Solution {
         }
         int count = 0;
         for(char stone : stones.toCharArray()){
-            if (jewels.indexOf(stone) != -1){
+            if (jewelSet.contains(stone)){
                 count++;
             }
         }
