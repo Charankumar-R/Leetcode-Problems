@@ -84,6 +84,7 @@ Problems solved by Charan
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
+| [0782-jewels-and-stones](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
 | [3617-find-the-original-typed-string-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
@@ -123,6 +124,7 @@ Problems solved by Charan
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0782-jewels-and-stones](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Recursion
