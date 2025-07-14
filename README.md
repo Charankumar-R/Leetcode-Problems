@@ -61,6 +61,7 @@ Problems solved by Charan
 | [0070-climbing-stairs](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
@@ -77,6 +78,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0338-counting-bits) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
@@ -144,6 +146,7 @@ Problems solved by Charan
 | [0021-merge-two-sorted-lists](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
