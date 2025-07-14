@@ -62,6 +62,7 @@ Problems solved by Charan
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Problems solved by Charan
 | [0206-reverse-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
