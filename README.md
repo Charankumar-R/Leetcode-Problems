@@ -24,6 +24,7 @@ Problems solved by Charan
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
@@ -115,6 +116,7 @@ Problems solved by Charan
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -128,6 +130,7 @@ Problems solved by Charan
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2479-meeting-rooms-iii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
@@ -232,6 +235,7 @@ Problems solved by Charan
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2479-meeting-rooms-iii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search Tree
@@ -248,6 +252,7 @@ Problems solved by Charan
 | [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
