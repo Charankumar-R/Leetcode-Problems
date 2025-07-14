@@ -10,6 +10,7 @@ Problems solved by Charan
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0068-text-justification](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -83,6 +84,7 @@ Problems solved by Charan
 | ------- |
 | [0020-valid-parentheses](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -166,6 +168,7 @@ Problems solved by Charan
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0068-text-justification) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2479-meeting-rooms-iii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Tree
