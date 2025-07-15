@@ -95,6 +95,7 @@ Problems solved by Charan
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0782-jewels-and-stones](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
 | [0800-letter-case-permutation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0800-letter-case-permutation) |
+| [3396-valid-word](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3396-valid-word) |
 | [3617-find-the-original-typed-string-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3617-find-the-original-typed-string-i) |
 ## Backtracking
 |  |
