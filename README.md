@@ -164,6 +164,7 @@ Problems solved by Charan
 | ------- |
 | [0155-min-stack](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0969-number-of-recent-calls](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
 |  |
@@ -171,6 +172,7 @@ Problems solved by Charan
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0969-number-of-recent-calls](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
@@ -315,4 +317,8 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
