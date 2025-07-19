@@ -64,6 +64,7 @@ Problems solved by Charan
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0897-prime-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
 |  |
@@ -321,4 +322,8 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [0897-prime-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
