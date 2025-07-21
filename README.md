@@ -193,6 +193,7 @@ Problems solved by Charan
 | [0102-binary-tree-level-order-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -212,6 +213,7 @@ Problems solved by Charan
 | ------- |
 | [0100-same-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -231,6 +233,7 @@ Problems solved by Charan
 | [0102-binary-tree-level-order-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
