@@ -55,6 +55,7 @@ Problems solved by Charan
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -97,6 +98,7 @@ Problems solved by Charan
 | [0068-text-justification](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0068-text-justification) |
 | [0214-shortest-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0782-jewels-and-stones](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0782-jewels-and-stones) |
@@ -172,6 +174,7 @@ Problems solved by Charan
 | ------- |
 | [0155-min-stack](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0969-number-of-recent-calls](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
@@ -203,6 +206,7 @@ Problems solved by Charan
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -223,6 +227,7 @@ Problems solved by Charan
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
@@ -244,6 +249,7 @@ Problems solved by Charan
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
