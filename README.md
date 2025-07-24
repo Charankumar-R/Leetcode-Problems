@@ -62,6 +62,7 @@ Problems solved by Charan
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Math
 |  |
 | ------- |
@@ -240,6 +241,7 @@ Problems solved by Charan
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
 | ------- |
@@ -360,4 +362,12 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0463-island-perimeter) |
+## Union Find
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
