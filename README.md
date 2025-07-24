@@ -69,6 +69,7 @@ Problems solved by Charan
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0897-prime-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -189,6 +190,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0258-add-digits) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2479-meeting-rooms-iii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Tree
@@ -347,6 +349,7 @@ Problems solved by Charan
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0897-prime-palindrome) |
 ## Matrix
 |  |
