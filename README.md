@@ -295,6 +295,7 @@ Problems solved by Charan
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
+| [0374-guess-number-higher-or-lower](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
@@ -375,4 +376,8 @@ Problems solved by Charan
 |  |
 | ------- |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
