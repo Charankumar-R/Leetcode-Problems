@@ -34,6 +34,7 @@ Problems solved by Charan
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -353,6 +354,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
