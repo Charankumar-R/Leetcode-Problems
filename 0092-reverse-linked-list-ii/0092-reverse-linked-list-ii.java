@@ -15,7 +15,6 @@ class Solution {
 
         ListNode l = dummy, curr = head;
         for(int i = 0; i < left -1; i++){
-            System.out.println("Left and current"+i);
             l = curr;
             curr = curr.next;
         }
