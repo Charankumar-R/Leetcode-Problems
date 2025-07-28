@@ -8,6 +8,7 @@ Problems solved by Charan
 | ------- |
 | [0001-two-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
@@ -143,6 +144,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -290,6 +292,7 @@ Problems solved by Charan
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
