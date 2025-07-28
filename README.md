@@ -16,6 +16,7 @@ Problems solved by Charan
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -89,6 +90,7 @@ Problems solved by Charan
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
@@ -151,6 +153,7 @@ Problems solved by Charan
 | [0001-two-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -277,6 +280,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -320,6 +324,7 @@ Problems solved by Charan
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Prefix Sum
