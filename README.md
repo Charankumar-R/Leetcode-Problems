@@ -7,6 +7,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -133,6 +134,7 @@ Problems solved by Charan
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
@@ -306,6 +308,7 @@ Problems solved by Charan
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0330-patching-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0435-non-overlapping-intervals](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
