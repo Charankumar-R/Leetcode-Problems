@@ -37,6 +37,7 @@ Problems solved by Charan
 | [0525-contiguous-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1293-three-consecutive-odds](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -207,6 +208,7 @@ Problems solved by Charan
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -422,4 +424,5 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
