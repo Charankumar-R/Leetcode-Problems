@@ -21,6 +21,7 @@ Problems solved by Charan
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0330-patching-array) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -195,6 +196,7 @@ Problems solved by Charan
 | [0155-min-stack](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0969-number-of-recent-calls](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0969-number-of-recent-calls) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Queue
@@ -335,6 +337,7 @@ Problems solved by Charan
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Sliding Window
