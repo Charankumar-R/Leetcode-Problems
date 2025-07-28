@@ -17,6 +17,7 @@ Problems solved by Charan
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -144,6 +145,7 @@ Problems solved by Charan
 | [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -305,6 +307,7 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
