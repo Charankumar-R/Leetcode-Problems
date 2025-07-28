@@ -80,6 +80,7 @@ Problems solved by Charan
 | [0009-palindrome-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0258-add-digits) |
@@ -149,6 +150,7 @@ Problems solved by Charan
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0392-is-subsequence) |
@@ -166,6 +168,7 @@ Problems solved by Charan
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
