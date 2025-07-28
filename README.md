@@ -32,6 +32,7 @@ Problems solved by Charan
 | [0435-non-overlapping-intervals](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0463-island-perimeter](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -177,6 +178,7 @@ Problems solved by Charan
 | [0268-missing-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -204,6 +206,7 @@ Problems solved by Charan
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -415,4 +418,8 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
