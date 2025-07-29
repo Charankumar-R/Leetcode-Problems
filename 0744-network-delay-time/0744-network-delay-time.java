@@ -5,8 +5,6 @@ class Solution {
             map.putIfAbsent(time[0], new HashMap<>());
             map.get(time[0]).put(time[1], time[2]);
         }
-        
-        //distance, node into pq
         Queue<int[]> pq = new PriorityQueue<>((a,b) -> (a[0] - b[0]));
         
         pq.add(new int[]{0, K});
