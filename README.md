@@ -77,6 +77,7 @@ Problems solved by Charan
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Math
@@ -281,6 +282,7 @@ Problems solved by Charan
 | [0543-diameter-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -382,6 +384,7 @@ Problems solved by Charan
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
+| [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [2479-meeting-rooms-iii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 ## Monotonic Queue
 |  |
@@ -424,6 +427,7 @@ Problems solved by Charan
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Interactive
@@ -440,4 +444,8 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
