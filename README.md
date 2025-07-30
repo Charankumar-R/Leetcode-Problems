@@ -80,6 +80,7 @@ Problems solved by Charan
 | [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Math
 |  |
 | ------- |
@@ -437,6 +438,7 @@ Problems solved by Charan
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1300-critical-connections-in-a-network](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1300-critical-connections-in-a-network) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2671-shortest-cycle-in-a-graph](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2671-shortest-cycle-in-a-graph) |
 ## Interactive
 |  |
 | ------- |
