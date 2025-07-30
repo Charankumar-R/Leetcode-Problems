@@ -1,23 +1,21 @@
 import java.util.*;
 
 class Solution {
-    private int[] color; // Tracks bipartition colors (0/1)
-    private List<List<Integer>> adj; // Adjacency list
-    private int n; // Number of nodes
+    private int[] color; 
+    private List<List<Integer>> adj; 
+    private int n;
 
-    // DFS to check bipartiteness and collect component nodes
     private boolean isBipartite(int node, int c, List<Integer> component) {
         color[node] = c;
         component.add(node);
         for (int nbr : adj.get(node)) {
-            if (color[nbr] == c) return false; // Odd cycle detected
+            if (color[nbr] == c) return false; 
             if (color[nbr] == -1 && !isBipartite(nbr, 1 - c, component)) 
                 return false;
         }
         return true;
     }
 
-    // BFS to compute max depth (groups) for a component
     private int maxGroupsInComponent(List<Integer> component) {
         int maxDepth = 0;
         for (int start : component) {
@@ -37,7 +35,7 @@ class Solution {
                 }
             }
         }
-        return maxDepth + 1; // Depth to groups conversion
+        return maxDepth + 1; 
     }
 
     public int magnificentSets(int n, int[][] edges) {
@@ -49,7 +47,6 @@ class Solution {
             adj.add(new ArrayList<>());
         }
 
-        // Build adjacency list
         for (int[] edge : edges) {
             int u = edge[0] - 1, v = edge[1] - 1;
             adj.get(u).add(v);
@@ -61,7 +58,7 @@ class Solution {
             if (color[i] == -1) {
                 List<Integer> component = new ArrayList<>();
                 if (!isBipartite(i, 0, component)) 
-                    return -1; // Non-bipartite component
+                    return -1; 
                 components.add(component);
             }
         }
