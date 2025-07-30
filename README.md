@@ -75,6 +75,7 @@ Problems solved by Charan
 | [0104-maximum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
@@ -285,6 +286,7 @@ Problems solved by Charan
 | [0111-minimum-depth-of-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0207-course-schedule](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -446,6 +448,7 @@ Problems solved by Charan
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
@@ -477,6 +480,7 @@ Problems solved by Charan
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Trie
 |  |
