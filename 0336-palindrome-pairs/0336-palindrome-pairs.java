@@ -1,46 +1,42 @@
 class Solution {
     public List<List<Integer>> palindromePairs(String[] words) {
-        Map<String, Integer> wmap = new HashMap<>();
-        List<List<Integer>> ans = new ArrayList<>();
-        for (int i = 0; i < words.length; i++)
-            wmap.put(words[i], i);
+        List<List<Integer>> result = new ArrayList<>();
+        Map<String, Integer> reversedWordMap = new HashMap<>();
+
         for (int i = 0; i < words.length; i++) {
-            if (words[i].equals("")) {
-                for (int j = 0; j < words.length; j++) {
-                    String w = words[j];
-                    if (isPal(w, 0, w.length()-1) && j != i) {
-                        ans.add(List.of(i, j));
-                        ans.add(List.of(j, i));
+            reversedWordMap.put(new StringBuilder(words[i]).reverse().toString(), i);
+        }
+
+        for (int i = 0; i < words.length; i++) {
+            String word = words[i];
+
+            for (int j = 0; j <= word.length(); j++) {
+                String prefix = word.substring(0, j);
+                String suffix = word.substring(j);
+
+                if (isPalindrome(word, 0, j - 1)) {
+                    Integer reversedSuffixIdx = reversedWordMap.get(suffix);
+                    if (reversedSuffixIdx != null && reversedSuffixIdx != i) {
+                        result.add(Arrays.asList(reversedSuffixIdx, i));
                     }
                 }
-                continue;
-            }
-            StringBuilder sb = new StringBuilder(words[i]);
-            sb.reverse();
-            String bw = sb.toString();
-            if (wmap.containsKey(bw)) {
-                int res = wmap.get(bw);
-                if (res != i) ans.add(List.of(i, res));
-            }
-            for (int j = 1; j < bw.length(); j++) {
-                if (isPal(bw, 0, j-1)) {
-                    String s = bw.substring(j);
-                    if (wmap.containsKey(s))
-                        ans.add(List.of(i, wmap.get(s)));
-                }
-                if (isPal(bw, j, bw.length()-1)) {
-                    String s = bw.substring(0,j);
-                    if (wmap.containsKey(s))
-                        ans.add(List.of(wmap.get(s), i));
+
+                if (j != word.length() && isPalindrome(word, j, word.length() - 1)) {
+                    Integer reversedPrefixIdx = reversedWordMap.get(prefix);
+                    if (reversedPrefixIdx != null && reversedPrefixIdx != i) {
+                        result.add(Arrays.asList(i, reversedPrefixIdx));
+                    }
                 }
             }
         }
-        return ans;
+
+        return result;
     }
-    
-    private boolean isPal(String word, int i, int j) {
-        while (i < j)
-            if (word.charAt(i++) != word.charAt(j--)) return false;
+
+    private boolean isPalindrome(String s, int left, int right) {
+        while (left < right) {
+            if (s.charAt(left++) != s.charAt(right--)) return false;
+        }
         return true;
     }
 }
