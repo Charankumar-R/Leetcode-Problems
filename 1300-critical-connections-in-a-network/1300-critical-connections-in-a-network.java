@@ -1,40 +1,38 @@
 class Solution {
-    private int timer = 0;
-    
-    public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
-        List<Integer>[] adj = new ArrayList[n];
-        for (int i = 0; i < n; i++) adj[i] = new ArrayList<>();
+  public List<List<Integer>> criticalConnections(int n, List<List<Integer>> connections) {
+    List<List<Integer>> ans = new ArrayList<>();
+    List<Integer>[] graph = new List[n];
+    Arrays.setAll(graph, i -> new ArrayList<>());
 
-        for (List<Integer> edge : connections) {
-            int u = edge.get(0), v = edge.get(1);
-            adj[u].add(v);
-            adj[v].add(u);
-        }
-
-        int[] tin = new int[n];
-        int[] low = new int[n];
-        boolean[] visited = new boolean[n];
-        List<List<Integer>> bridges = new ArrayList<>();
-
-        dfs(0, -1, adj, tin, low, visited, bridges);
-        return bridges;
+    for (List<Integer> connection : connections) {
+      final int u = connection.get(0);
+      final int v = connection.get(1);
+      graph[u].add(v);
+      graph[v].add(u);
     }
+    int[] rank = new int[n];
+    Arrays.fill(rank, NO_RANK);
+    getRank(graph, 0, 0, rank, ans);
+    return ans;
+  }
 
-    private void dfs(int node, int parent, List<Integer>[] adj, int[] tin, int[] low, boolean[] visited, List<List<Integer>> bridges) {
-        visited[node] = true;
-        tin[node] = low[node] = ++timer;
+  private static final int NO_RANK = -2;
+  private int getRank(List<Integer>[] graph, int u, int myRank, int[] rank, List<List<Integer>> ans) {
+    if (rank[u] != NO_RANK) 
+      return rank[u];
 
-        for (int neighbor : adj[node]) {
-            if (neighbor == parent) continue;
-            if (!visited[neighbor]) {
-                dfs(neighbor, node, adj, tin, low, visited, bridges);
-                low[node] = Math.min(low[node], low[neighbor]);
-                if (low[neighbor] > tin[node]) {
-                    bridges.add(Arrays.asList(node, neighbor));
-                }
-            } else {
-                low[node] = Math.min(low[node], tin[neighbor]);
-            }
-        }
+    rank[u] = myRank;
+    int minRank = myRank;
+
+    for (final int v : graph[u]) {
+      if (rank[u] == rank.length || rank[v] == myRank - 1)
+        continue;
+      final int nextRank = getRank(graph, v, myRank + 1, rank, ans);
+      if (nextRank == myRank + 1)
+        ans.add(Arrays.asList(u, v));
+      minRank = Math.min(minRank, nextRank);
     }
+    rank[u] = rank.length;
+    return minRank;
+  }
 }
