@@ -288,6 +288,7 @@ Problems solved by Charan
 | [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
 | [1285-balance-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1285-balance-a-binary-search-tree) |
+| [1300-critical-connections-in-a-network](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1300-critical-connections-in-a-network) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Binary Tree
 |  |
@@ -434,6 +435,7 @@ Problems solved by Charan
 | ------- |
 | [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0801-is-graph-bipartite) |
+| [1300-critical-connections-in-a-network](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1300-critical-connections-in-a-network) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Interactive
 |  |
@@ -453,4 +455,8 @@ Problems solved by Charan
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0744-network-delay-time) |
+## Biconnected Component
+|  |
+| ------- |
+| [1300-critical-connections-in-a-network](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1300-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
