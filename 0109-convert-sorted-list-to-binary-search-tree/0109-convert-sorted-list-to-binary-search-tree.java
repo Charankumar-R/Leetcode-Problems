@@ -1,18 +1,21 @@
 class Solution {
     public TreeNode sortedListToBST(ListNode head) {
-        if(head == null) return null;
-        if(head.next == null) return new TreeNode(head.val);
-        ListNode slow = head;
-        ListNode fast = head.next.next;
-        while (fast != null && fast.next != null){
-            slow = slow.next;
+        if (head == null) return null;
+        return BST(head, null);
+    }
+
+    public TreeNode BST(ListNode head, ListNode tail) {
+        if (head == tail) return null;
+
+        ListNode slow = head, fast = head;
+        while (fast != tail && fast.next != tail) {
             fast = fast.next.next;
+            slow = slow.next;
         }
-        TreeNode res = new TreeNode(slow.next.val);
-        ListNode righthalf=slow.next.next;
-        slow.next=null;
-        res.left=sortedListToBST(head);
-        res.right=sortedListToBST(righthalf);
-        return res;
+
+        TreeNode root = new TreeNode(slow.val);
+        root.left = BST(head, slow);
+        root.right = BST(slow.next, tail);
+        return root;
     }
 }
