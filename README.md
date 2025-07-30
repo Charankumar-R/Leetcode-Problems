@@ -45,6 +45,7 @@ Problems solved by Charan
 | [1293-three-consecutive-odds](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2195-time-needed-to-buy-tickets](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2195-time-needed-to-buy-tickets) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -64,6 +65,7 @@ Problems solved by Charan
 | [0354-russian-doll-envelopes](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@ Problems solved by Charan
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2479-meeting-rooms-iii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Binary Search Tree
