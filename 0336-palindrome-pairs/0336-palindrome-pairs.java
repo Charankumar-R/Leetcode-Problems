@@ -1,38 +1,33 @@
 class Solution {
     public List<List<Integer>> palindromePairs(String[] words) {
         List<List<Integer>> result = new ArrayList<>();
-        Map<String, Integer> reversedWordMap = new HashMap<>();
-
+        Map<String, Integer> map = new HashMap<>();
         for (int i = 0; i < words.length; i++) {
-            reversedWordMap.put(new StringBuilder(words[i]).reverse().toString(), i);
+            map.put(new StringBuilder(words[i]).reverse().toString(), i);
         }
-
         for (int i = 0; i < words.length; i++) {
             String word = words[i];
-
-            for (int j = 0; j <= word.length(); j++) {
+            int len = word.length();
+            for (int j = 0; j <= len; j++) {
                 String prefix = word.substring(0, j);
                 String suffix = word.substring(j);
-
                 if (isPalindrome(word, 0, j - 1)) {
-                    Integer reversedSuffixIdx = reversedWordMap.get(suffix);
-                    if (reversedSuffixIdx != null && reversedSuffixIdx != i) {
-                        result.add(Arrays.asList(reversedSuffixIdx, i));
+                    Integer idx = map.get(suffix);
+                    if (idx != null && idx != i) {
+                        result.add(List.of(idx, i));
                     }
                 }
-
-                if (j != word.length() && isPalindrome(word, j, word.length() - 1)) {
-                    Integer reversedPrefixIdx = reversedWordMap.get(prefix);
-                    if (reversedPrefixIdx != null && reversedPrefixIdx != i) {
-                        result.add(Arrays.asList(i, reversedPrefixIdx));
+                if (j != len && isPalindrome(word, j, len - 1)) {
+                    Integer idx = map.get(prefix);
+                    if (idx != null && idx != i) {
+                        result.add(List.of(i, idx));
                     }
                 }
             }
         }
-
+        result.sort((a, b) -> a.get(0).equals(b.get(0)) ? a.get(1) - b.get(1) : a.get(0) - b.get(0));
         return result;
     }
-
     private boolean isPalindrome(String s, int left, int right) {
         while (left < right) {
             if (s.charAt(left++) != s.charAt(right--)) return false;
