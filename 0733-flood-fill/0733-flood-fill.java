@@ -1,25 +1,19 @@
 class Solution {
-    public void floodFillSolve(int[][] image, int sr, int sc, int color, boolean[][] visited, int originalColor) {
-        if (sr < 0 || sc < 0 || sr >= image.length || sc >= image[0].length)
-            return;
-        if (visited[sr][sc])
-            return;
-        if (image[sr][sc] != originalColor)
-            return;
-        visited[sr][sc] = true;
-        image[sr][sc] = color;
-        floodFillSolve(image, sr + 1, sc, color, visited, originalColor);
-        floodFillSolve(image, sr - 1, sc, color, visited, originalColor);
-        floodFillSolve(image, sr, sc + 1, color, visited, originalColor);
-        floodFillSolve(image, sr, sc - 1, color, visited, originalColor);
-    }
-
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        int originalColor = image[sr][sc];
-        if (originalColor == color)
-            return image;
-        boolean[][] visited = new boolean[image.length][image[0].length];
-        floodFillSolve(image, sr, sc, color, visited, originalColor);
+        if (image[sr][sc] != color) {
+            fill(image, sr, sc, color, image[sr][sc]);
+        }
         return image;
+    }
+    public void fill(int[][] image, int i, int j, int color, int prev){
+        if(i<0 ||j<0 || i>image.length-1 || j>image[0].length-1){
+            return;
+        }
+        if(image[i][j]!=prev)return;
+        image[i][j] = color;
+        fill(image,i-1,j,color,prev); 
+        fill(image,i+1,j,color,prev); 
+        fill(image,i,j-1,color,prev); 
+        fill(image,i,j+1,color,prev); 
     }
 }
