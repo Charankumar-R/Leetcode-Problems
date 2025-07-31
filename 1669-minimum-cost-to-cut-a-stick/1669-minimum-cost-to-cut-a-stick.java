@@ -1,30 +1,23 @@
 class Solution {
-    int[][] dp;
-    
-    int solve(int start_stick, int end_stick, int[] cuts, int left, int right) {
-        if (left > right) return 0;
+    public int minCost(int n, int[] cuts) {
+        int m = cuts.length;
+        int[] c = new int[m + 2];
+        c[0] = 0; c[m + 1] = n;
+        System.arraycopy(cuts, 0, c, 1, m);
+        Arrays.sort(c);
 
-        if (dp[left][right] != -1) return dp[left][right];
+        int[][] dp = new int[m + 2][m + 2];
 
-        int cost = Integer.MAX_VALUE;
-
-        for (int i = left; i <= right; i++) {
-            int left_cost = solve(start_stick, cuts[i], cuts, left, i - 1);
-            int right_cost = solve(cuts[i], end_stick, cuts, i + 1, right);
-            int curr_cost = (end_stick - start_stick) + left_cost + right_cost;
-            cost = Math.min(cost, curr_cost);
+        for (int len = 2; len < m + 2; len++) {
+            for (int i = 0; i + len < m + 2; i++) {
+                int j = i + len;
+                dp[i][j] = Integer.MAX_VALUE;
+                for (int k = i + 1; k < j; k++) {
+                    dp[i][j] = Math.min(dp[i][j], c[j] - c[i] + dp[i][k] + dp[k][j]);
+                }
+                if (dp[i][j] == Integer.MAX_VALUE) dp[i][j] = 0;
+            }
         }
-
-        return dp[left][right] = cost;
-    }
-    
-    int minCost(int n, int[] cuts) {
-        dp = new int[cuts.length][cuts.length];
-        for (int[] row : dp) {
-            Arrays.fill(row, -1);
-        }
-        
-        Arrays.sort(cuts);
-        return solve(0, n, cuts, 0, cuts.length - 1);
+        return dp[0][m + 1];
     }
 }
