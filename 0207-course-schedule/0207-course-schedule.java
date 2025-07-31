@@ -1,39 +1,39 @@
 class Solution {
-    public boolean a = true;
-    public boolean canFinish(int numCourses, int[][] pre) {
-        List<List<Integer>>graph = new ArrayList<>();
-        for (int i=0; i<numCourses; i++) {
+    public boolean canFinish(int numCourses, int[][] prerequisites) {
+        int[] indegree = new int[numCourses];
+        List<List<Integer>> graph = new ArrayList<>();
+        
+        for (int i = 0; i < numCourses; i++) {
             graph.add(new ArrayList<>());
         }
-        int n = pre.length;
-        for (int i=0; i<n; i++) {
-            graph.get(pre[i][0]).add(pre[i][1]);
+        
+        for (int[] pre : prerequisites) {
+            int course = pre[0];
+            int prereq = pre[1];
+            graph.get(prereq).add(course);
+            indegree[course]++;
         }
-        boolean[]visited = new boolean[numCourses];
-        for (int i=0; i<n; i++) {
-            if (!a) {
-                return a;
-            }
-            if (!visited[pre[i][0]]) {
-                Map<Integer, Integer>map = new HashMap<>();
-                dfs(graph, visited, pre[i][0], map);
+        
+        Queue<Integer> queue = new LinkedList<>();
+        for (int i = 0; i < numCourses; i++) {
+            if (indegree[i] == 0) {
+                queue.add(i);
             }
         }
-        return a;
-    }
-
-    public void dfs(List<List<Integer>>graph, boolean[]visited, int idx, Map<Integer, Integer> parent) {
-        if (visited[idx]) return;
-        visited[idx] = true;
-        List<Integer>lst = graph.get(idx);
-        parent.put(idx, 1);
-        for (int i=0; i<lst.size(); i++) {
-            if (parent.containsKey(lst.get(i))) {
-                a = false;
-                return;
+        
+        int completed = 0;
+        while (!queue.isEmpty()) {
+            int course = queue.poll();
+            completed++;
+            
+            for (int next : graph.get(course)) {
+                indegree[next]--;
+                if (indegree[next] == 0) {
+                    queue.add(next);
+                }
             }
-            dfs(graph, visited, lst.get(i), parent);
         }
-        parent.remove(idx);
+        
+        return completed == numCourses;
     }
 }
