@@ -21,6 +21,7 @@ Problems solved by Charan
 | [0150-evaluate-reverse-polish-notation](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0239-sliding-window-maximum) |
@@ -62,6 +63,7 @@ Problems solved by Charan
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0174-dungeon-game](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0322-coin-change](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0338-counting-bits](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0338-counting-bits) |
@@ -444,6 +446,7 @@ Problems solved by Charan
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0174-dungeon-game) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0463-island-perimeter](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0733-flood-fill) |
