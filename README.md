@@ -71,6 +71,7 @@ Problems solved by Charan
 | [0354-russian-doll-envelopes](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [0836-race-car](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0836-race-car) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
