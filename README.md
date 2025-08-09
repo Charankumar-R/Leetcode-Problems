@@ -40,6 +40,7 @@ Problems solved by Charan
 | [0496-next-greater-element-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0525-contiguous-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -375,6 +376,7 @@ Problems solved by Charan
 | [0354-russian-doll-envelopes](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0784-insert-into-a-binary-search-tree) |
