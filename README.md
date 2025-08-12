@@ -10,6 +10,7 @@ Problems solved by Charan
 | [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -179,6 +180,7 @@ Problems solved by Charan
 | [0011-container-with-most-water](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0202-happy-number) |
