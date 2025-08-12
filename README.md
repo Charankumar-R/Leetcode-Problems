@@ -142,6 +142,7 @@ Problems solved by Charan
 | [0020-valid-parentheses](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0065-valid-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0125-valid-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0214-shortest-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0242-valid-anagram) |
@@ -181,6 +182,7 @@ Problems solved by Charan
 | [0015-3sum](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0202-happy-number) |
