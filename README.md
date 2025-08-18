@@ -51,6 +51,7 @@ Problems solved by Charan
 | [0739-daily-temperatures](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0875-longest-mountain-in-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -205,6 +206,7 @@ Problems solved by Charan
 | [0875-longest-mountain-in-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -376,6 +378,7 @@ Problems solved by Charan
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
+| [1019-squares-of-a-sorted-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
