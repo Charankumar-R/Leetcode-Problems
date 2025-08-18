@@ -48,6 +48,7 @@ Problems solved by Charan
 | [0724-find-pivot-index](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0875-longest-mountain-in-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1137-height-checker](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1137-height-checker) |
 | [1293-three-consecutive-odds](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1293-three-consecutive-odds) |
@@ -77,6 +78,7 @@ Problems solved by Charan
 | [0392-is-subsequence](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0836-race-car](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0836-race-car) |
+| [0875-longest-mountain-in-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Breadth-First Search
 |  |
@@ -198,6 +200,7 @@ Problems solved by Charan
 | [0392-is-subsequence](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0524-longest-word-in-dictionary-through-deleting](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0524-longest-word-in-dictionary-through-deleting) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0875-longest-mountain-in-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [0908-middle-of-the-linked-list](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0917-boats-to-save-people](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0917-boats-to-save-people) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -448,6 +451,7 @@ Problems solved by Charan
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/0875-longest-mountain-in-array) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/RCKcharan10/Leetcode-Problems/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Rolling Hash
 |  |
