@@ -1,6 +1,7 @@
 # Leetcode-Problems
 Problems solved by Charan
-
+<!-- LANGUAGES BREAKDOWN START -->
+<!-- LANGUAGES BREAKDOWN END -->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
