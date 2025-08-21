@@ -1,6 +1,14 @@
 # Leetcode-Problems
 Problems solved by Charan
 <!-- LANGUAGES BREAKDOWN START -->
+```
+[ LANGUAGES BREAKDOWN ]
+
+Java         --> 2,901 lines
+Python       --> 640 lines
+
+[ TOTAL LINES OF CODE: 3,541 ]
+```
 <!-- LANGUAGES BREAKDOWN END -->
 <!---LeetCode Topics Start-->
 # LeetCode Topics
