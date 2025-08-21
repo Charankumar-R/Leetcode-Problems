@@ -5,9 +5,12 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * 0" # Weekly, Sunday midnight UTC
-  workflow_dispatch: # Manual trigger
-
+    - cron: "0 0 * * 0"
+  workflow_dispatch:
+  
+permissions:
+  contents: write
+  
 jobs:
   count-lines:
     runs-on: ubuntu-latest
@@ -18,6 +21,8 @@ jobs:
     steps:
       - name: Checkout Code
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0   
 
       - name: Install Dependencies
         run: |
@@ -89,4 +94,4 @@ jobs:
 
           git add output/cloc-output.json README.md
           git commit -m "chore: update README with latest code stats" || echo "No changes to commit"
-          git push origin HEAD
+          git push origin main
